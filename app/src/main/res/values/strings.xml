@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">RentCar</string>
+
+    <!-- use for login  -->
+    <string name="title_login">Servicio unico exclusivo</string>
+    <string name="welcome_login">Bienvenidos</string>
+    <string name="sub_title_login">Para hacer uso del servicio realiza una de las dos acciones:</string>
+    <string name="no_account_login">¿No tienes una cuenta?</string>
+    <string name="sing_up_login">Registrate</string>
+    <string name="yes_account_login">Ya tienes una cuenta</string>
+    <string name="login_login">Inisia sesion</string>
+
+    <!-- use for create account  -->
+
+    <string name="title_create_account">Crea una cuenta y disfruta el servicio</string>
+    <string name="first_name_account">Nombre:</string>
+    <string name="last_name_account">Apellido:</string>
+    <string name="phone_account">Telefono:</string>
+    <string name="email_account">Email:</string>
+    <string name="password_account">Contraseña:</string>
+    <string name="ci_account">Cedula de ciudadania:</string>
+    <string name="country_account">Pais:</string>
+    <string name="city_account">Ciudad:</string>
+    <string name="address_account">Direccion:</string>
+    <string name="create_account">Crear cuenta</string>
+
+    <!-- use for create account  -->
+
+    <string name="edit_welcome_account">Bienvenido: </string>
+    <string name="edit_account">Editar datos:</string>
+    <string name="edit_save_account">Guardar</string>
+
+    <!-- use for init login  -->
+
+    <string name="title_init_login">Inicia sesion y disfruta del servicio</string>
+    <string name="email_init_login">Email</string>
+    <string name="password_init_login">Password</string>
+    <string name="login_init_login">Iniciar sesion</string>
+
+    <!-- use for main  -->
+
+    <string name="title_main">Servicio unico exclusivo</string>
+    <string name="welcome_main">Bienvenido: </string>
+    <string name="my_rentals_main">Mis alquileres</string>
+    <string name="my_reservations_main">Mis reservas</string>
+    <string name="what_like_main">¿Que deseas hacer?</string>
+    <string name="rent_car_main">Rentar un vehiculo</string>
+    <string name="rent_your_car_main">Rentar su vehiculo</string>
+
+    <!-- use for reservation  -->
+
+    <string name="welcome_reservation">Bienvenido: </string>
+    <string name="my_rentals_reservation">Mis alquileres</string>
+    <string name="my_reservations_reservation">Mis reservas</string>
+    <string name="reservations_reservation">RESERVACION EXITOSA</string>
+
+    <!-- use for settings  -->
+
+    <string name="account_settings">Ajustes de la cuenta</string>
+    <string name="update_user_settings">Actualizar datos de usuario</string>
+    <string name="update_data_car_settings">Actualizar datos de los vehiculo</string>
+
+    <!-- use for my reservation  -->
+
+    <string name="welcome_my_reservation">Bienvenido: </string>
+    <string name="my_reservation">Bienvenido: A mis reservas</string>
+    <string name="my_reservation_actives">Mis reservas activas: </string>
+    <string name="car">Auto</string>
+    <string name="price">Precio</string>
+    <string name="amount">Cantidad</string>
+    <string name="days">Dias</string>
+    <string name="sub_total">Sub total</string>
+    <string name="total">Total: </string>
+    <string name="continue_renting">Continuar rentado</string>
+    <string name="confirm">Confirmar</string>
+
+    <!-- use for my rentals  -->
+
+    <string name="welcome_my_rentals">Bienvenido: </string>
+    <string name="my_rentals">Bienvenido: A mis alquileres</string>
+    <string name="my_rentals_actives">Mis alquileres activas: </string>
+    <string name="my_car">Mis vehiculos</string>
+    <string name="data">Datos</string>
+    <string name="state">state</string>
+    <string name="unsubscribe">Dar de baja</string>
+
+
+    <!-- use for create rentals  -->
+
+    <string name="welcome_my_create_rentals">Bienvenido: </string>
+    <string name="my_create_rentals">Bienvenido: A mis alquileres</string>
+    <string name="my_create_rentals_main">Mis alquileres</string>
+    <string name="my_create_reservations_main">Mis reservas</string>
+    <string name="good_create_rantals">Felicidades estas a un paso de rentar tu pripio vehiculo</string>
+    <string name="register_car">Registra tu vehiculos</string>
+    <string name="color">Color</string>
+    <string name="license_plate">Placa</string>
+    <string name="brand">Marca</string>
+    <string name="model">Modelo</string>
+    <string name="year">Año</string>
+    <string name="enrollment">Matricula</string>
+    <string name="sure">Seguro</string>
+    <string name="generated_id">Id generado</string>
+    <string name="uploat_image">Subir imagen</string>
+        <string name="rent">Poner en renta</string>
+
+</resources>

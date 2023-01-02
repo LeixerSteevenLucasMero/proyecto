@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "245746437221",
+    "firebase_url": "https://b-am-appalquilerdevehiculoss-default-rtdb.firebaseio.com",
+    "project_id": "b-am-appalquilerdevehiculoss",
+    "storage_bucket": "b-am-appalquilerdevehiculoss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245746437221:android:774369b56a623807818a8c",
+        "android_client_info": {
+          "package_name": "com.ip.rentcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245746437221-50gnfsh420hasjo80ch4bae85lpu685i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFGM3q9eBgvTGSJ5dNS_XJr2WsRnywSIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245746437221-50gnfsh420hasjo80ch4bae85lpu685i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
